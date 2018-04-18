@@ -25,6 +25,9 @@ so far that could be useful in the future:
   some clunky Java code into Kotlin (see GoogleCalendar.kt) and started building
   my own abstractions on top of it.
 
+[taskwarrior]: https://taskwarrior.org
+[ews]: https://github.com/daveyarwood/ews
+
 ## Setup
 
 `tdz` requires some credentials authorizing it to use the Google Calendar API on
